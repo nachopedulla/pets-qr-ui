@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pets-qr-ui/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/pets-qr-ui/static/js/main.a7f275c8.chunk.js",
-    "main.js.map": "/pets-qr-ui/static/js/main.a7f275c8.chunk.js.map",
+    "main.js": "/pets-qr-ui/static/js/main.b0d3725e.chunk.js",
+    "main.js.map": "/pets-qr-ui/static/js/main.b0d3725e.chunk.js.map",
     "runtime-main.js": "/pets-qr-ui/static/js/runtime-main.4ffd3a78.js",
     "runtime-main.js.map": "/pets-qr-ui/static/js/runtime-main.4ffd3a78.js.map",
     "static/js/2.7302e3a6.chunk.js": "/pets-qr-ui/static/js/2.7302e3a6.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.4ffd3a78.js",
     "static/js/2.7302e3a6.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.a7f275c8.chunk.js"
+    "static/js/main.b0d3725e.chunk.js"
   ]
 }
