@@ -63,8 +63,8 @@ const Header = () => {
             <p className={classes.title}>Mascotas QR</p>
             <ul className={classes.menu}>
                 <li className={classes.menuItem}>Nosotros</li>
-                <li className={classes.menuItem}>Obtener QR</li>
-                <li className={classes.menuItem}>Log in</li>
+                <li className={classes.menuItem}>¡Quiero mi collar!</li>
+                <li className={classes.menuItem}>Cambiar mi información</li>
             </ul>    
         </div>
     )

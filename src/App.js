@@ -18,14 +18,6 @@ const useStyles = makeStyles({
       marginTop: '180px',
     }
   },
-  footer: {
-    width: '100%',
-    height: '50px',
-    backgroundColor: '#c0c5d4',
-    position: 'absolute',
-    right: '0px',
-    bottom: '-10px'
-  }
 })
 
 function App() {
@@ -51,7 +43,6 @@ function App() {
           </Box>
           <Box title={'¿Dónde entregamos?'} text={'Por el momento entregamos en Capital Federal. Igualmente no dudes en consultarnos por excepciones :)'} image={Shipping}/>
         </div>
-        <div className={classes.footer}></div>
     </div>
   );
 }
