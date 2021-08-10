@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/nachopedulla.github.io/pets-qr-ui/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/nachopedulla.github.io/pets-qr-ui/static/js/main.a9437ae1.chunk.js",
+    "main.js.map": "/nachopedulla.github.io/pets-qr-ui/static/js/main.a9437ae1.chunk.js.map",
+    "runtime-main.js": "/nachopedulla.github.io/pets-qr-ui/static/js/runtime-main.8bc13409.js",
+    "runtime-main.js.map": "/nachopedulla.github.io/pets-qr-ui/static/js/runtime-main.8bc13409.js.map",
+    "static/js/2.7302e3a6.chunk.js": "/nachopedulla.github.io/pets-qr-ui/static/js/2.7302e3a6.chunk.js",
+    "static/js/2.7302e3a6.chunk.js.map": "/nachopedulla.github.io/pets-qr-ui/static/js/2.7302e3a6.chunk.js.map",
+    "static/js/3.41a1315b.chunk.js": "/nachopedulla.github.io/pets-qr-ui/static/js/3.41a1315b.chunk.js",
+    "static/js/3.41a1315b.chunk.js.map": "/nachopedulla.github.io/pets-qr-ui/static/js/3.41a1315b.chunk.js.map",
+    "index.html": "/nachopedulla.github.io/pets-qr-ui/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/nachopedulla.github.io/pets-qr-ui/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.7302e3a6.chunk.js.LICENSE.txt": "/nachopedulla.github.io/pets-qr-ui/static/js/2.7302e3a6.chunk.js.LICENSE.txt",
+    "static/media/dog.ec392d8d.png": "/nachopedulla.github.io/pets-qr-ui/static/media/dog.ec392d8d.png",
+    "static/media/location.f95ed196.jpg": "/nachopedulla.github.io/pets-qr-ui/static/media/location.f95ed196.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8bc13409.js",
+    "static/js/2.7302e3a6.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.a9437ae1.chunk.js"
+  ]
+}
